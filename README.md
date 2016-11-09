@@ -2,7 +2,7 @@
 
 ## How to get help:
 Read this document. No really.
-If you're unsure about something, or have any questions, or even if you just want to say hi please join our [Bath ML Slack channel](http://bathml.herokuapp.com/).
+If youaergaerg're unsure about something, or have any questions, or even if you just want to say hi please join our [Bath ML Slack channel](http://bathml.herokuapp.com/).
 Should you not wish to speak publicly feel free to PM @kinbiko.
 
 ## Slack
